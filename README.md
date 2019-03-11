@@ -2,7 +2,7 @@
 
 This project uses the Ames housing data recently made available on kaggle.
 
-Regression and Classification with the Ames Housing Data
+Regression with the Ames Housing Data
 
 1) Estimating the value of homes from fixed characteristics.
 
